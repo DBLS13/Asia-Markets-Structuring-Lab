@@ -2,7 +2,7 @@
 
 ## Pricing, Risks & Hedge Residual
 
-**Prepared by:** [Your Name]  
+**Prepared by:** Dylan Bruce Lim Sam  
 **Date:** June 2026 (Q2 quarter-end snapshot)  
 **Status:** Indicative — not a term sheet, not investment advice
 
