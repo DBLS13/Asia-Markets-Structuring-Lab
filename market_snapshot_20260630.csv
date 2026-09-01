@@ -1,0 +1,2 @@
+observation_date,dci_spot,dci_usd_rate,dci_cnh_rate,dci_vol,dci_tenor,dci_notional,eln_spot,eln_rate,eln_div_yield,eln_vol,eln_tenor,eln_notional,eln_strike_pct
+2026-06-30,7.245,0.0405,0.0195,0.055,0.5,1000000,7285.0,0.0385,0.034,0.248,0.5,1000000,0.9
