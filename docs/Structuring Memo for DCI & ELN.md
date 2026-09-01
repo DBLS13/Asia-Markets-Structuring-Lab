@@ -107,7 +107,7 @@ put at different frequencies.
 
 **Key insight:** The standard deviation of hedge error grows with the  
 square root of the rebalancing interval (a textbook result that the  
-simulation confirms). HK stamp duty (13 bps per side) materially  
+simulation confirms). HK stamp duty (10 bps per side) materially  
 erodes the premium collected, particularly in high-gamma regimes near  
 the strike as expiry approaches.
 **What this means for the desk:** The put premium must cover not just  
