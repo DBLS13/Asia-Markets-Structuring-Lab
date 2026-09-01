@@ -17,7 +17,7 @@ measures dealer hedge slippage.
 - Terminal payoff diagrams and break-even analysis
 - Dealer greeks scaled to notional, spot × vol MTM P&L heatmaps
 - Discrete delta-hedge simulation (daily / weekly / monthly, 0 / 5 /
-  13 bps transaction costs including HK stamp duty)
+  10 bps transaction costs including HK stamp duty)
 - Client suitability matrix and 50 bp funding/XVA footnote
 - Two-page structuring memo in `/docs`
 
